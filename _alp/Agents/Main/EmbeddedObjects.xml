@@ -959,12 +959,22 @@
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[enableTimeout]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[true]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[timeout]]></Name>
+				<Value Class="CodeUnitValue">
+					<Code><![CDATA[triangular(30,120,300)]]></Code>
+					<Unit Class="TimeUnits"><![CDATA[SECOND]]></Unit>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[enablePreemption]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[true]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[canceledUnitsBehavior]]></Name>
@@ -1181,12 +1191,22 @@
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[enableTimeout]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[true]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[timeout]]></Name>
+				<Value Class="CodeUnitValue">
+					<Code><![CDATA[triangular(30,120,300)]]></Code>
+					<Unit Class="TimeUnits"><![CDATA[SECOND]]></Unit>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[enablePreemption]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[true]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[restoreEntityLocationOnExit]]></Name>
@@ -1465,12 +1485,22 @@
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[enableTimeout]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[true]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[timeout]]></Name>
+				<Value Class="CodeUnitValue">
+					<Code><![CDATA[triangular(30,120,300)]]></Code>
+					<Unit Class="TimeUnits"><![CDATA[SECOND]]></Unit>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[enablePreemption]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[true]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[restoreEntityLocationOnExit]]></Name>
@@ -2609,12 +2639,22 @@
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[enableTimeout]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[true]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[timeout]]></Name>
+				<Value Class="CodeUnitValue">
+					<Code><![CDATA[triangular(30,120,300)]]></Code>
+					<Unit Class="TimeUnits"><![CDATA[SECOND]]></Unit>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[enablePreemption]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[true]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[canceledUnitsBehavior]]></Name>
@@ -2831,12 +2871,22 @@
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[enableTimeout]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[true]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[timeout]]></Name>
+				<Value Class="CodeUnitValue">
+					<Code><![CDATA[triangular(30,120,300)]]></Code>
+					<Unit Class="TimeUnits"><![CDATA[SECOND]]></Unit>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[enablePreemption]]></Name>
+				<Value Class="CodeValue">
+					<Code><![CDATA[true]]></Code>
+				</Value>
 			</Parameter>
 			<Parameter>
 				<Name><![CDATA[restoreEntityLocationOnExit]]></Name>
