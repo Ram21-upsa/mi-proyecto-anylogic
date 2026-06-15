@@ -12,6 +12,10 @@
 	<JavaPackageName><![CDATA[estacionamiento]]></JavaPackageName>
 	<ModelTimeUnit><![CDATA[Hour]]></ModelTimeUnit>
 	<Folders>
+		<Folder>
+			<Id>1781539347687</Id>
+			<Name><![CDATA[images]]></Name>
+		</Folder>
 	</Folders>
 	<ActiveObjectClasses>
 		<!--   =========   Active Object Class   ========  -->
@@ -6121,14 +6125,14 @@
 						<TextColor>-12566464</TextColor>
 					</Labels>
 					<ShowLegend>true</ShowLegend>
-					<TimeWindowsMovementType>MOVEMENT_WITH_TIME</TimeWindowsMovementType>
+					<TimeWindowsMovementType>MOVEMENT_WITH_TIME</TimeWindowsMovementType>		
 					<TimeWindowUnits>MODEL_TIME_UNIT</TimeWindowUnits>
 					<VerScaleFromExpression><![CDATA[0]]></VerScaleFromExpression>
 					<VerScaleToExpression><![CDATA[1]]></VerScaleToExpression>
 					<VerScaleType>AUTO</VerScaleType>
 					<DrawLine>true</DrawLine>
 					<Interpolation>LINEAR</Interpolation>
-					<DatasetExpression>
+					<DatasetExpression>  
 						<Title><![CDATA[Total N(t)]]></Title>
 					<Id>1779580724109</Id>
 					<Expression><![CDATA[dataset]]></Expression>
@@ -6138,7 +6142,7 @@
 						<PointStyle>NONE</PointStyle>
 						<LineWidth>1.0</LineWidth>
 					</DatasetExpression>
-					<DatasetExpression>
+					<DatasetExpression>  
 						<Title><![CDATA[Externo]]></Title>
 					<Id>1779581007217</Id>
 					<Expression><![CDATA[dataset1]]></Expression>
@@ -6148,7 +6152,7 @@
 						<PointStyle>NONE</PointStyle>
 						<LineWidth>1.0</LineWidth>
 					</DatasetExpression>
-					<DatasetExpression>
+					<DatasetExpression>  
 						<Title><![CDATA[Central]]></Title>
 					<Id>1779581043701</Id>
 					<Expression><![CDATA[dataset2]]></Expression>
@@ -6158,7 +6162,7 @@
 						<PointStyle>NONE</PointStyle>
 						<LineWidth>1.0</LineWidth>
 					</DatasetExpression>
-					<DatasetExpression>
+					<DatasetExpression>  
 						<Title><![CDATA[Polideportivo]]></Title>
 					<Id>1779581060374</Id>
 					<Expression><![CDATA[dataset3]]></Expression>
@@ -6221,14 +6225,14 @@
 						<TextColor>-12566464</TextColor>
 					</Labels>
 					<ShowLegend>true</ShowLegend>
-					<TimeWindowsMovementType>MOVEMENT_WITH_TIME</TimeWindowsMovementType>
+					<TimeWindowsMovementType>MOVEMENT_WITH_TIME</TimeWindowsMovementType>		
 					<TimeWindowUnits>MODEL_TIME_UNIT</TimeWindowUnits>
 					<VerScaleFromExpression><![CDATA[0]]></VerScaleFromExpression>
 					<VerScaleToExpression><![CDATA[1]]></VerScaleToExpression>
 					<VerScaleType>AUTO</VerScaleType>
 					<DrawLine>true</DrawLine>
 					<Interpolation>LINEAR</Interpolation>
-					<DatasetExpression>
+					<DatasetExpression>  
 						<Title><![CDATA[Total %]]></Title>
 					<Id>1779582564377</Id>
 					<Expression><![CDATA[dataset]]></Expression>
@@ -6238,7 +6242,7 @@
 						<PointStyle>NONE</PointStyle>
 						<LineWidth>1.0</LineWidth>
 					</DatasetExpression>
-					<DatasetExpression>
+					<DatasetExpression>  
 						<Title><![CDATA[Externo %]]></Title>
 					<Id>1779582623529</Id>
 					<Expression><![CDATA[dataset1]]></Expression>
@@ -6248,7 +6252,7 @@
 						<PointStyle>NONE</PointStyle>
 						<LineWidth>1.0</LineWidth>
 					</DatasetExpression>
-					<DatasetExpression>
+					<DatasetExpression>  
 						<Title><![CDATA[Central %]]></Title>
 					<Id>1779582638458</Id>
 					<Expression><![CDATA[dataset2]]></Expression>
@@ -6258,7 +6262,7 @@
 						<PointStyle>NONE</PointStyle>
 						<LineWidth>1.0</LineWidth>
 					</DatasetExpression>
-					<DatasetExpression>
+					<DatasetExpression>  
 						<Title><![CDATA[Polideportivo %]]></Title>
 					<Id>1779582681391</Id>
 					<Expression><![CDATA[dataset3]]></Expression>
@@ -6321,14 +6325,14 @@
 						<TextColor>-12566464</TextColor>
 					</Labels>
 					<ShowLegend>true</ShowLegend>
-					<TimeWindowsMovementType>MOVEMENT_WITH_TIME</TimeWindowsMovementType>
+					<TimeWindowsMovementType>MOVEMENT_WITH_TIME</TimeWindowsMovementType>		
 					<TimeWindowUnits>MODEL_TIME_UNIT</TimeWindowUnits>
 					<VerScaleFromExpression><![CDATA[0]]></VerScaleFromExpression>
 					<VerScaleToExpression><![CDATA[1]]></VerScaleToExpression>
 					<VerScaleType>AUTO</VerScaleType>
 					<DrawLine>true</DrawLine>
 					<Interpolation>LINEAR</Interpolation>
-					<DatasetExpression>
+					<DatasetExpression>  
 						<Title><![CDATA[Vehículos rechazados]]></Title>
 					<Id>1779583052326</Id>
 					<Expression><![CDATA[dataset]]></Expression>
@@ -6391,14 +6395,14 @@
 						<TextColor>-12566464</TextColor>
 					</Labels>
 					<ShowLegend>true</ShowLegend>
-					<TimeWindowsMovementType>MOVEMENT_WITH_TIME</TimeWindowsMovementType>
+					<TimeWindowsMovementType>MOVEMENT_WITH_TIME</TimeWindowsMovementType>		
 					<TimeWindowUnits>MODEL_TIME_UNIT</TimeWindowUnits>
 					<VerScaleFromExpression><![CDATA[0]]></VerScaleFromExpression>
 					<VerScaleToExpression><![CDATA[1]]></VerScaleToExpression>
 					<VerScaleType>AUTO</VerScaleType>
 					<DrawLine>true</DrawLine>
 					<Interpolation>LINEAR</Interpolation>
-					<DatasetExpression>
+					<DatasetExpression>  
 						<Title><![CDATA[Saturación total porcentual]]></Title>
 					<Id>1779583221738</Id>
 					<Expression><![CDATA[dataset]]></Expression>
@@ -6461,14 +6465,14 @@
 						<TextColor>-12566464</TextColor>
 					</Labels>
 					<ShowLegend>true</ShowLegend>
-					<TimeWindowsMovementType>MOVEMENT_WITH_TIME</TimeWindowsMovementType>
+					<TimeWindowsMovementType>MOVEMENT_WITH_TIME</TimeWindowsMovementType>		
 					<TimeWindowUnits>MODEL_TIME_UNIT</TimeWindowUnits>
 					<VerScaleFromExpression><![CDATA[0]]></VerScaleFromExpression>
 					<VerScaleToExpression><![CDATA[1]]></VerScaleToExpression>
 					<VerScaleType>AUTO</VerScaleType>
 					<DrawLine>true</DrawLine>
 					<Interpolation>STEP</Interpolation>
-					<DatasetExpression>
+					<DatasetExpression>  
 						<Title><![CDATA[Saturación Total Sistema]]></Title>
 					<Id>1779585617900</Id>
 					<Expression><![CDATA[dataset]]></Expression>
@@ -6478,7 +6482,7 @@
 						<PointStyle>NONE</PointStyle>
 						<LineWidth>1.0</LineWidth>
 					</DatasetExpression>
-					<DatasetExpression>
+					<DatasetExpression>  
 						<Title><![CDATA[Saturación Externo]]></Title>
 					<Id>1779585683684</Id>
 					<Expression><![CDATA[dataset1]]></Expression>
@@ -6488,7 +6492,7 @@
 						<PointStyle>NONE</PointStyle>
 						<LineWidth>1.0</LineWidth>
 					</DatasetExpression>
-					<DatasetExpression>
+					<DatasetExpression>  
 						<Title><![CDATA[Saturación Central]]></Title>
 					<Id>1779585697750</Id>
 					<Expression><![CDATA[dataset2]]></Expression>
@@ -6498,7 +6502,7 @@
 						<PointStyle>NONE</PointStyle>
 						<LineWidth>1.0</LineWidth>
 					</DatasetExpression>
-					<DatasetExpression>
+					<DatasetExpression>  
 						<Title><![CDATA[Saturación Polideportivo]]></Title>
 					<Id>1779585708727</Id>
 					<Expression><![CDATA[dataset3]]></Expression>
@@ -6550,10 +6554,10 @@
 		<MaximumMemory>512</MaximumMemory>
 		<ModelTimeProperties>
 			<StopOption><![CDATA[Stop at specified time]]></StopOption>
-			<InitialDate><![CDATA[1779321600000]]></InitialDate>
-			<InitialTime><![CDATA[0.0]]></InitialTime>
-			<FinalDate><![CDATA[1782000000000]]></FinalDate>
-			<FinalTime><![CDATA[168.0]]></FinalTime>
+			<InitialDate><![CDATA[1779321600000]]></InitialDate>	
+			<InitialTime><![CDATA[0.0]]></InitialTime>	
+			<FinalDate><![CDATA[1782000000000]]></FinalDate>	
+			<FinalTime><![CDATA[168.0]]></FinalTime>	
 		</ModelTimeProperties>
 		<AnimationProperties>
 			<StopNever>true</StopNever>
@@ -6563,7 +6567,7 @@
 			<EnableDeveloperPanel>false</EnableDeveloperPanel>
 			<ShowDeveloperPanelOnStart>false</ShowDeveloperPanelOnStart>
 		</AnimationProperties>
-		<Inputs>
+		<Inputs>		
 		</Inputs>
 		<Outputs>
 		</Outputs>
@@ -6624,7 +6628,7 @@
 				<FinalTime><![CDATA[120.0]]></FinalTime>
 			</ModelTimeProperties>
 			<BypassInitialScreen>true</BypassInitialScreen>
-		</SimulationExperiment>
+		</SimulationExperiment>	
 	</Experiments>
 	<ModelResources>
 		<Resource>
