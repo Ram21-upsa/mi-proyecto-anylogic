@@ -12,10 +12,6 @@
 	<JavaPackageName><![CDATA[estacionamiento]]></JavaPackageName>
 	<ModelTimeUnit><![CDATA[Hour]]></ModelTimeUnit>
 	<Folders>
-		<Folder>
-			<Id>1781539347687</Id>
-			<Name><![CDATA[images]]></Name>
-		</Folder>
 	</Folders>
 	<ActiveObjectClasses>
 		<!--   =========   Active Object Class   ========  -->
@@ -6077,6 +6073,28 @@
 					<LevelVisibility>DIM_NON_CURRENT</LevelVisibility>
 
 			<Presentation>
+				<Image>
+					<Id>1781541914235</Id>
+					<Name><![CDATA[image]]></Name>
+					<X>0</X><Y>1040</Y>
+					<Label><X>0</X><Y>-10</Y></Label>
+					<PublicFlag>true</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>false</ShowLabel>
+					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
+					<EmbeddedIcon>false</EmbeddedIcon>
+					<Z>0</Z>
+					<Width>1672</Width>
+					<Height>941</Height>
+					<Rotation>0.0</Rotation>
+					<ImageFiles>
+						<ImageResourceReference>
+							<PackageName><![CDATA[estacionamiento]]></PackageName>
+							<ClassName><![CDATA[fondos_parqueo_upsa.png]]></ClassName>
+						</ImageResourceReference>
+					</ImageFiles>
+					<OriginalSize>false</OriginalSize>
+				</Image>
     			<TimePlot>
 					<Id>1779580722601</Id>
 					<Name><![CDATA[n_t_occupation]]></Name>
@@ -6634,6 +6652,12 @@
 		<Resource>
 			<Id>1779393865799</Id>
 			<Path><![CDATA[3d/car.dae]]></Path>
+			<ReferencedFromUserCode>false</ReferencedFromUserCode>
+			<Location>FILE_SYSTEM</Location>
+		</Resource>
+		<Resource>
+			<Id>1781541921910</Id>
+			<Path><![CDATA[fondos_parqueo_upsa.png]]></Path>
 			<ReferencedFromUserCode>false</ReferencedFromUserCode>
 			<Location>FILE_SYSTEM</Location>
 		</Resource>
