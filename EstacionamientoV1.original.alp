@@ -7321,19 +7321,19 @@
 				<Attractor>
 					<Id>1781556212392</Id>
 					<Name><![CDATA[attractor4]]></Name>
-					<X>1105</X><Y>1127.5</Y>
+					<X>1160</X><Y>1110</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>0.0</Rotation>	
+					<Rotation>90.0</Rotation>	
 				</Attractor>
 				<Attractor>
 					<Id>1781556212395</Id>
 					<Name><![CDATA[attractor5]]></Name>
-					<X>1150</X><Y>1127.5</Y>
+					<X>1190</X><Y>1170</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -7345,50 +7345,50 @@
 				<Attractor>
 					<Id>1781556212398</Id>
 					<Name><![CDATA[attractor6]]></Name>
-					<X>1195</X><Y>1127.5</Y>
+					<X>1180</X><Y>1110</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>0.0</Rotation>	
+					<Rotation>90.0</Rotation>	
 				</Attractor>
 				<Attractor>
 					<Id>1781556212401</Id>
 					<Name><![CDATA[attractor7]]></Name>
-					<X>1240</X><Y>1127.5</Y>
+					<X>1200</X><Y>1110</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>0.0</Rotation>	
+					<Rotation>90.0</Rotation>	
 				</Attractor>
 				<Attractor>
 					<Id>1781556212404</Id>
 					<Name><![CDATA[attractor8]]></Name>
-					<X>1285</X><Y>1127.5</Y>
+					<X>1220</X><Y>1110</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>0.0</Rotation>	
+					<Rotation>90.0</Rotation>	
 				</Attractor>
 				<Attractor>
 					<Id>1781556212407</Id>
 					<Name><![CDATA[attractor9]]></Name>
-					<X>1330</X><Y>1127.5</Y>
+					<X>1330</X><Y>1110</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>0.0</Rotation>	
+					<Rotation>90.0</Rotation>	
 				</Attractor>
 				<Attractor>
 					<Id>1781556212410</Id>
@@ -8197,50 +8197,50 @@
 				<Attractor>
 					<Id>1781556212611</Id>
 					<Name><![CDATA[attractor107]]></Name>
-					<X>1015</X><Y>1365</Y>
+					<X>990</X><Y>1360</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>0.0</Rotation>	
+					<Rotation>270.0</Rotation>	
 				</Attractor>
 				<Attractor>
 					<Id>1781556212614</Id>
 					<Name><![CDATA[attractor108]]></Name>
-					<X>1060</X><Y>1365</Y>
+					<X>1010</X><Y>1360</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>0.0</Rotation>	
+					<Rotation>270.0</Rotation>	
 				</Attractor>
 				<Attractor>
 					<Id>1781556212617</Id>
 					<Name><![CDATA[attractor109]]></Name>
-					<X>1105</X><Y>1365</Y>
+					<X>1030</X><Y>1360</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>0.0</Rotation>	
+					<Rotation>270.0</Rotation>	
 				</Attractor>
 				<Attractor>
 					<Id>1781556212620</Id>
 					<Name><![CDATA[attractor110]]></Name>
-					<X>1150</X><Y>1365</Y>
+					<X>1050</X><Y>1360</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>0.0</Rotation>	
+					<Rotation>270.0</Rotation>	
 				</Attractor>
 				<Attractor>
 					<Id>1781556212623</Id>
