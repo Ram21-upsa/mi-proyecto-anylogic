@@ -9145,1096 +9145,1096 @@
 
 			<Presentation>
 				<Attractor>
-					<Id>1781800000100</Id>
+					<Id>1781900000100</Id>
 					<Name><![CDATA[poli_att0]]></Name>
-					<X>407</X><Y>1604</Y>
+					<X>325</X><Y>1612</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000101</Id>
+					<Id>1781900000101</Id>
 					<Name><![CDATA[poli_att1]]></Name>
-					<X>427</X><Y>1604</Y>
+					<X>367</X><Y>1612</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000102</Id>
+					<Id>1781900000102</Id>
 					<Name><![CDATA[poli_att2]]></Name>
-					<X>447</X><Y>1604</Y>
+					<X>409</X><Y>1612</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000103</Id>
+					<Id>1781900000103</Id>
 					<Name><![CDATA[poli_att3]]></Name>
-					<X>467</X><Y>1604</Y>
+					<X>451</X><Y>1612</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000104</Id>
+					<Id>1781900000104</Id>
 					<Name><![CDATA[poli_att4]]></Name>
-					<X>487</X><Y>1604</Y>
+					<X>493</X><Y>1612</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000105</Id>
+					<Id>1781900000105</Id>
 					<Name><![CDATA[poli_att5]]></Name>
-					<X>407</X><Y>1643</Y>
+					<X>535</X><Y>1612</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000106</Id>
+					<Id>1781900000106</Id>
 					<Name><![CDATA[poli_att6]]></Name>
-					<X>427</X><Y>1643</Y>
+					<X>577</X><Y>1612</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000107</Id>
+					<Id>1781900000107</Id>
 					<Name><![CDATA[poli_att7]]></Name>
-					<X>447</X><Y>1643</Y>
+					<X>619</X><Y>1612</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000108</Id>
+					<Id>1781900000108</Id>
 					<Name><![CDATA[poli_att8]]></Name>
-					<X>467</X><Y>1643</Y>
+					<X>661</X><Y>1612</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000109</Id>
+					<Id>1781900000109</Id>
 					<Name><![CDATA[poli_att9]]></Name>
-					<X>487</X><Y>1643</Y>
+					<X>703</X><Y>1612</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000110</Id>
+					<Id>1781900000110</Id>
 					<Name><![CDATA[poli_att10]]></Name>
-					<X>407</X><Y>1683</Y>
+					<X>745</X><Y>1612</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000111</Id>
+					<Id>1781900000111</Id>
 					<Name><![CDATA[poli_att11]]></Name>
-					<X>427</X><Y>1683</Y>
+					<X>787</X><Y>1612</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000112</Id>
+					<Id>1781900000112</Id>
 					<Name><![CDATA[poli_att12]]></Name>
-					<X>447</X><Y>1683</Y>
+					<X>829</X><Y>1612</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000113</Id>
+					<Id>1781900000113</Id>
 					<Name><![CDATA[poli_att13]]></Name>
-					<X>467</X><Y>1683</Y>
+					<X>871</X><Y>1612</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000114</Id>
+					<Id>1781900000114</Id>
 					<Name><![CDATA[poli_att14]]></Name>
-					<X>487</X><Y>1683</Y>
+					<X>913</X><Y>1612</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000115</Id>
+					<Id>1781900000115</Id>
 					<Name><![CDATA[poli_att15]]></Name>
-					<X>407</X><Y>1722</Y>
+					<X>325</X><Y>1650</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000116</Id>
+					<Id>1781900000116</Id>
 					<Name><![CDATA[poli_att16]]></Name>
-					<X>427</X><Y>1722</Y>
+					<X>367</X><Y>1650</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000117</Id>
+					<Id>1781900000117</Id>
 					<Name><![CDATA[poli_att17]]></Name>
-					<X>447</X><Y>1722</Y>
+					<X>409</X><Y>1650</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000118</Id>
+					<Id>1781900000118</Id>
 					<Name><![CDATA[poli_att18]]></Name>
-					<X>467</X><Y>1722</Y>
+					<X>451</X><Y>1650</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000119</Id>
+					<Id>1781900000119</Id>
 					<Name><![CDATA[poli_att19]]></Name>
-					<X>487</X><Y>1722</Y>
+					<X>493</X><Y>1650</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000120</Id>
+					<Id>1781900000120</Id>
 					<Name><![CDATA[poli_att20]]></Name>
-					<X>407</X><Y>1762</Y>
+					<X>535</X><Y>1650</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000121</Id>
+					<Id>1781900000121</Id>
 					<Name><![CDATA[poli_att21]]></Name>
-					<X>427</X><Y>1762</Y>
+					<X>577</X><Y>1650</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000122</Id>
+					<Id>1781900000122</Id>
 					<Name><![CDATA[poli_att22]]></Name>
-					<X>447</X><Y>1762</Y>
+					<X>619</X><Y>1650</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000123</Id>
+					<Id>1781900000123</Id>
 					<Name><![CDATA[poli_att23]]></Name>
-					<X>467</X><Y>1762</Y>
+					<X>661</X><Y>1650</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000124</Id>
+					<Id>1781900000124</Id>
 					<Name><![CDATA[poli_att24]]></Name>
-					<X>487</X><Y>1762</Y>
+					<X>703</X><Y>1650</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000125</Id>
+					<Id>1781900000125</Id>
 					<Name><![CDATA[poli_att25]]></Name>
-					<X>407</X><Y>1801</Y>
+					<X>745</X><Y>1650</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000126</Id>
+					<Id>1781900000126</Id>
 					<Name><![CDATA[poli_att26]]></Name>
-					<X>427</X><Y>1801</Y>
+					<X>787</X><Y>1650</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000127</Id>
+					<Id>1781900000127</Id>
 					<Name><![CDATA[poli_att27]]></Name>
-					<X>447</X><Y>1801</Y>
+					<X>829</X><Y>1650</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000128</Id>
+					<Id>1781900000128</Id>
 					<Name><![CDATA[poli_att28]]></Name>
-					<X>467</X><Y>1801</Y>
+					<X>871</X><Y>1650</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000129</Id>
+					<Id>1781900000129</Id>
 					<Name><![CDATA[poli_att29]]></Name>
-					<X>487</X><Y>1801</Y>
+					<X>913</X><Y>1650</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000130</Id>
+					<Id>1781900000130</Id>
 					<Name><![CDATA[poli_att30]]></Name>
-					<X>649</X><Y>1604</Y>
+					<X>325</X><Y>1710</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000131</Id>
+					<Id>1781900000131</Id>
 					<Name><![CDATA[poli_att31]]></Name>
-					<X>669</X><Y>1604</Y>
+					<X>367</X><Y>1710</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000132</Id>
+					<Id>1781900000132</Id>
 					<Name><![CDATA[poli_att32]]></Name>
-					<X>689</X><Y>1604</Y>
+					<X>409</X><Y>1710</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000133</Id>
+					<Id>1781900000133</Id>
 					<Name><![CDATA[poli_att33]]></Name>
-					<X>709</X><Y>1604</Y>
+					<X>451</X><Y>1710</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000134</Id>
+					<Id>1781900000134</Id>
 					<Name><![CDATA[poli_att34]]></Name>
-					<X>649</X><Y>1643</Y>
+					<X>493</X><Y>1710</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000135</Id>
+					<Id>1781900000135</Id>
 					<Name><![CDATA[poli_att35]]></Name>
-					<X>669</X><Y>1643</Y>
+					<X>535</X><Y>1710</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000136</Id>
+					<Id>1781900000136</Id>
 					<Name><![CDATA[poli_att36]]></Name>
-					<X>689</X><Y>1643</Y>
+					<X>577</X><Y>1710</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000137</Id>
+					<Id>1781900000137</Id>
 					<Name><![CDATA[poli_att37]]></Name>
-					<X>709</X><Y>1643</Y>
+					<X>619</X><Y>1710</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000138</Id>
+					<Id>1781900000138</Id>
 					<Name><![CDATA[poli_att38]]></Name>
-					<X>649</X><Y>1683</Y>
+					<X>661</X><Y>1710</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000139</Id>
+					<Id>1781900000139</Id>
 					<Name><![CDATA[poli_att39]]></Name>
-					<X>669</X><Y>1683</Y>
+					<X>703</X><Y>1710</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000140</Id>
+					<Id>1781900000140</Id>
 					<Name><![CDATA[poli_att40]]></Name>
-					<X>689</X><Y>1683</Y>
+					<X>745</X><Y>1710</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000141</Id>
+					<Id>1781900000141</Id>
 					<Name><![CDATA[poli_att41]]></Name>
-					<X>709</X><Y>1683</Y>
+					<X>787</X><Y>1710</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000142</Id>
+					<Id>1781900000142</Id>
 					<Name><![CDATA[poli_att42]]></Name>
-					<X>649</X><Y>1722</Y>
+					<X>829</X><Y>1710</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000143</Id>
+					<Id>1781900000143</Id>
 					<Name><![CDATA[poli_att43]]></Name>
-					<X>669</X><Y>1722</Y>
+					<X>871</X><Y>1710</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000144</Id>
+					<Id>1781900000144</Id>
 					<Name><![CDATA[poli_att44]]></Name>
-					<X>689</X><Y>1722</Y>
+					<X>913</X><Y>1710</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000145</Id>
+					<Id>1781900000145</Id>
 					<Name><![CDATA[poli_att45]]></Name>
-					<X>709</X><Y>1722</Y>
+					<X>325</X><Y>1748</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000146</Id>
+					<Id>1781900000146</Id>
 					<Name><![CDATA[poli_att46]]></Name>
-					<X>649</X><Y>1762</Y>
+					<X>367</X><Y>1748</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000147</Id>
+					<Id>1781900000147</Id>
 					<Name><![CDATA[poli_att47]]></Name>
-					<X>669</X><Y>1762</Y>
+					<X>409</X><Y>1748</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000148</Id>
+					<Id>1781900000148</Id>
 					<Name><![CDATA[poli_att48]]></Name>
-					<X>689</X><Y>1762</Y>
+					<X>451</X><Y>1748</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000149</Id>
+					<Id>1781900000149</Id>
 					<Name><![CDATA[poli_att49]]></Name>
-					<X>709</X><Y>1762</Y>
+					<X>493</X><Y>1748</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000150</Id>
+					<Id>1781900000150</Id>
 					<Name><![CDATA[poli_att50]]></Name>
-					<X>649</X><Y>1801</Y>
+					<X>535</X><Y>1748</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000151</Id>
+					<Id>1781900000151</Id>
 					<Name><![CDATA[poli_att51]]></Name>
-					<X>669</X><Y>1801</Y>
+					<X>577</X><Y>1748</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000152</Id>
+					<Id>1781900000152</Id>
 					<Name><![CDATA[poli_att52]]></Name>
-					<X>689</X><Y>1801</Y>
+					<X>619</X><Y>1748</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000153</Id>
+					<Id>1781900000153</Id>
 					<Name><![CDATA[poli_att53]]></Name>
-					<X>709</X><Y>1801</Y>
+					<X>661</X><Y>1748</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000154</Id>
+					<Id>1781900000154</Id>
 					<Name><![CDATA[poli_att54]]></Name>
-					<X>853</X><Y>1604</Y>
+					<X>703</X><Y>1748</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000155</Id>
+					<Id>1781900000155</Id>
 					<Name><![CDATA[poli_att55]]></Name>
-					<X>873</X><Y>1604</Y>
+					<X>745</X><Y>1748</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000156</Id>
+					<Id>1781900000156</Id>
 					<Name><![CDATA[poli_att56]]></Name>
-					<X>893</X><Y>1604</Y>
+					<X>787</X><Y>1748</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000157</Id>
+					<Id>1781900000157</Id>
 					<Name><![CDATA[poli_att57]]></Name>
-					<X>853</X><Y>1643</Y>
+					<X>829</X><Y>1748</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000158</Id>
+					<Id>1781900000158</Id>
 					<Name><![CDATA[poli_att58]]></Name>
-					<X>873</X><Y>1643</Y>
+					<X>871</X><Y>1748</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000159</Id>
+					<Id>1781900000159</Id>
 					<Name><![CDATA[poli_att59]]></Name>
-					<X>893</X><Y>1643</Y>
+					<X>913</X><Y>1748</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000160</Id>
+					<Id>1781900000160</Id>
 					<Name><![CDATA[poli_att60]]></Name>
-					<X>853</X><Y>1683</Y>
+					<X>325</X><Y>1808</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000161</Id>
+					<Id>1781900000161</Id>
 					<Name><![CDATA[poli_att61]]></Name>
-					<X>873</X><Y>1683</Y>
+					<X>367</X><Y>1808</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000162</Id>
+					<Id>1781900000162</Id>
 					<Name><![CDATA[poli_att62]]></Name>
-					<X>893</X><Y>1683</Y>
+					<X>409</X><Y>1808</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000163</Id>
+					<Id>1781900000163</Id>
 					<Name><![CDATA[poli_att63]]></Name>
-					<X>853</X><Y>1722</Y>
+					<X>451</X><Y>1808</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000164</Id>
+					<Id>1781900000164</Id>
 					<Name><![CDATA[poli_att64]]></Name>
-					<X>873</X><Y>1722</Y>
+					<X>493</X><Y>1808</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000165</Id>
+					<Id>1781900000165</Id>
 					<Name><![CDATA[poli_att65]]></Name>
-					<X>893</X><Y>1722</Y>
+					<X>535</X><Y>1808</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000166</Id>
+					<Id>1781900000166</Id>
 					<Name><![CDATA[poli_att66]]></Name>
-					<X>853</X><Y>1762</Y>
+					<X>577</X><Y>1808</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000167</Id>
+					<Id>1781900000167</Id>
 					<Name><![CDATA[poli_att67]]></Name>
-					<X>873</X><Y>1762</Y>
+					<X>619</X><Y>1808</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000168</Id>
+					<Id>1781900000168</Id>
 					<Name><![CDATA[poli_att68]]></Name>
-					<X>893</X><Y>1762</Y>
+					<X>661</X><Y>1808</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000169</Id>
+					<Id>1781900000169</Id>
 					<Name><![CDATA[poli_att69]]></Name>
-					<X>853</X><Y>1801</Y>
+					<X>703</X><Y>1808</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000170</Id>
+					<Id>1781900000170</Id>
 					<Name><![CDATA[poli_att70]]></Name>
-					<X>873</X><Y>1801</Y>
+					<X>745</X><Y>1808</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000171</Id>
+					<Id>1781900000171</Id>
 					<Name><![CDATA[poli_att71]]></Name>
-					<X>893</X><Y>1801</Y>
+					<X>787</X><Y>1808</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000172</Id>
+					<Id>1781900000172</Id>
 					<Name><![CDATA[poli_att72]]></Name>
-					<X>1070</X><Y>1604</Y>
+					<X>829</X><Y>1808</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000173</Id>
+					<Id>1781900000173</Id>
 					<Name><![CDATA[poli_att73]]></Name>
-					<X>1090</X><Y>1604</Y>
+					<X>871</X><Y>1808</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000174</Id>
+					<Id>1781900000174</Id>
 					<Name><![CDATA[poli_att74]]></Name>
-					<X>1110</X><Y>1604</Y>
+					<X>913</X><Y>1808</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000175</Id>
+					<Id>1781900000175</Id>
 					<Name><![CDATA[poli_att75]]></Name>
-					<X>1070</X><Y>1643</Y>
+					<X>325</X><Y>1846</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000176</Id>
+					<Id>1781900000176</Id>
 					<Name><![CDATA[poli_att76]]></Name>
-					<X>1090</X><Y>1643</Y>
+					<X>367</X><Y>1846</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000177</Id>
+					<Id>1781900000177</Id>
 					<Name><![CDATA[poli_att77]]></Name>
-					<X>1110</X><Y>1643</Y>
+					<X>409</X><Y>1846</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000178</Id>
+					<Id>1781900000178</Id>
 					<Name><![CDATA[poli_att78]]></Name>
-					<X>1070</X><Y>1683</Y>
+					<X>451</X><Y>1846</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000179</Id>
+					<Id>1781900000179</Id>
 					<Name><![CDATA[poli_att79]]></Name>
-					<X>1090</X><Y>1683</Y>
+					<X>493</X><Y>1846</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000180</Id>
+					<Id>1781900000180</Id>
 					<Name><![CDATA[poli_att80]]></Name>
-					<X>1110</X><Y>1683</Y>
+					<X>535</X><Y>1846</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000181</Id>
+					<Id>1781900000181</Id>
 					<Name><![CDATA[poli_att81]]></Name>
-					<X>1070</X><Y>1722</Y>
+					<X>577</X><Y>1846</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000182</Id>
+					<Id>1781900000182</Id>
 					<Name><![CDATA[poli_att82]]></Name>
-					<X>1090</X><Y>1722</Y>
+					<X>619</X><Y>1846</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000183</Id>
+					<Id>1781900000183</Id>
 					<Name><![CDATA[poli_att83]]></Name>
-					<X>1110</X><Y>1722</Y>
+					<X>661</X><Y>1846</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000184</Id>
+					<Id>1781900000184</Id>
 					<Name><![CDATA[poli_att84]]></Name>
-					<X>1070</X><Y>1762</Y>
+					<X>703</X><Y>1846</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000185</Id>
+					<Id>1781900000185</Id>
 					<Name><![CDATA[poli_att85]]></Name>
-					<X>1090</X><Y>1762</Y>
+					<X>745</X><Y>1846</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000186</Id>
+					<Id>1781900000186</Id>
 					<Name><![CDATA[poli_att86]]></Name>
-					<X>1110</X><Y>1762</Y>
+					<X>787</X><Y>1846</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>90.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000187</Id>
+					<Id>1781900000187</Id>
 					<Name><![CDATA[poli_att87]]></Name>
-					<X>1070</X><Y>1801</Y>
+					<X>829</X><Y>1846</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000188</Id>
+					<Id>1781900000188</Id>
 					<Name><![CDATA[poli_att88]]></Name>
-					<X>1090</X><Y>1801</Y>
+					<X>871</X><Y>1846</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000189</Id>
+					<Id>1781900000189</Id>
 					<Name><![CDATA[poli_att89]]></Name>
-					<X>1110</X><Y>1801</Y>
+					<X>913</X><Y>1846</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>0.0</Rotation>	
 				</Attractor>
 				<Attractor>
-					<Id>1781800000190</Id>
+					<Id>1781900000190</Id>
 					<Name><![CDATA[poli_att90]]></Name>
-					<X>1130</X><Y>1643</Y>
+					<X>619</X><Y>1710</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>false</ShowLabel>
 					<DrawMode>SHAPE_DRAW_2D3D</DrawMode>
 					<Z>0</Z>
-					<Rotation>270.0</Rotation>	
+					<Rotation>180.0</Rotation>	
 				</Attractor>
 			</Presentation>
 
