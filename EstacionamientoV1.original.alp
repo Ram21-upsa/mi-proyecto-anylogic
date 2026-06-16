@@ -12800,10 +12800,10 @@
 			</PresentationProperties>
 			<ModelTimeProperties>
 				<StopOption><![CDATA[Stop at specified time]]></StopOption>
-				<InitialDate><![CDATA[1770595200000]]></InitialDate>
+				<InitialDate><![CDATA[1770621300000]]></InitialDate>
 				<InitialTime><![CDATA[0.0]]></InitialTime>
-				<FinalDate><![CDATA[1771020000000]]></FinalDate>
-				<FinalTime><![CDATA[118.0]]></FinalTime>
+				<FinalDate><![CDATA[1771019100000]]></FinalDate>
+				<FinalTime><![CDATA[110.5]]></FinalTime>
 			</ModelTimeProperties>
 			<BypassInitialScreen>true</BypassInitialScreen>
 		</SimulationExperiment>	
