@@ -2743,24 +2743,6 @@
 					<Parameters>
 						<Parameter>
 							<Name><![CDATA[onEnter]]></Name>
-							<Value Class="CodeValue">
-								<Code><![CDATA[try {
-  java.io.File csvFile = new java.io.File("simulacion_eventos.csv");
-  boolean writeHeader = !csvFile.exists() || csvFile.length() == 0;
-  java.io.FileWriter writer = new java.io.FileWriter(csvFile, true);
-  if (writeHeader) {
-    writer.write("tiempo,hora,evento,parqueo,ocup_externo,ocup_central,ocup_polideportivo,ocup_total,rechazados\n");
-  }
-  int ocupExt = 100 - EstExterno.idle();
-  int ocupCent = 73 - EstCentral.idle();
-  int ocupPoli = 91 - EstIng.idle();
-  int ocupTotal = ocupExt + ocupCent + ocupPoli;
-  writer.write(time() + "," + ((int) Math.floor(time())) + ",rechazo,Ninguno," + ocupExt + "," + ocupCent + "," + ocupPoli + "," + ocupTotal + "," + Lleno.count() + "\n");
-  writer.close();
-} catch (Exception e) {
-  traceln("Error exportando CSV: " + e);
-}]]></Code>
-							</Value>
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[destroyEntity]]></Name>
@@ -3410,24 +3392,6 @@
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[onExit]]></Name>
-							<Value Class="CodeValue">
-								<Code><![CDATA[try {
-  java.io.File csvFile = new java.io.File("simulacion_eventos.csv");
-  boolean writeHeader = !csvFile.exists() || csvFile.length() == 0;
-  java.io.FileWriter writer = new java.io.FileWriter(csvFile, true);
-  if (writeHeader) {
-    writer.write("tiempo,hora,evento,parqueo,ocup_externo,ocup_central,ocup_polideportivo,ocup_total,rechazados\n");
-  }
-  int ocupExt = 100 - EstExterno.idle();
-  int ocupCent = 73 - EstCentral.idle();
-  int ocupPoli = 91 - EstIng.idle();
-  int ocupTotal = ocupExt + ocupCent + ocupPoli;
-  writer.write(time() + "," + ((int) Math.floor(time())) + ",salida,Externo," + ocupExt + "," + ocupCent + "," + ocupPoli + "," + ocupTotal + "," + Lleno.count() + "\n");
-  writer.close();
-} catch (Exception e) {
-  traceln("Error exportando CSV: " + e);
-}]]></Code>
-							</Value>
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[onWrapUpTerminated]]></Name>
@@ -5090,24 +5054,6 @@
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[onExit]]></Name>
-							<Value Class="CodeValue">
-								<Code><![CDATA[try {
-  java.io.File csvFile = new java.io.File("simulacion_eventos.csv");
-  boolean writeHeader = !csvFile.exists() || csvFile.length() == 0;
-  java.io.FileWriter writer = new java.io.FileWriter(csvFile, true);
-  if (writeHeader) {
-    writer.write("tiempo,hora,evento,parqueo,ocup_externo,ocup_central,ocup_polideportivo,ocup_total,rechazados\n");
-  }
-  int ocupExt = 100 - EstExterno.idle();
-  int ocupCent = 73 - EstCentral.idle();
-  int ocupPoli = 91 - EstIng.idle();
-  int ocupTotal = ocupExt + ocupCent + ocupPoli;
-  writer.write(time() + "," + ((int) Math.floor(time())) + ",salida,Central," + ocupExt + "," + ocupCent + "," + ocupPoli + "," + ocupTotal + "," + Lleno.count() + "\n");
-  writer.close();
-} catch (Exception e) {
-  traceln("Error exportando CSV: " + e);
-}]]></Code>
-							</Value>
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[onWrapUpTerminated]]></Name>
@@ -6118,24 +6064,6 @@
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[onExit]]></Name>
-							<Value Class="CodeValue">
-								<Code><![CDATA[try {
-  java.io.File csvFile = new java.io.File("simulacion_eventos.csv");
-  boolean writeHeader = !csvFile.exists() || csvFile.length() == 0;
-  java.io.FileWriter writer = new java.io.FileWriter(csvFile, true);
-  if (writeHeader) {
-    writer.write("tiempo,hora,evento,parqueo,ocup_externo,ocup_central,ocup_polideportivo,ocup_total,rechazados\n");
-  }
-  int ocupExt = 100 - EstExterno.idle();
-  int ocupCent = 73 - EstCentral.idle();
-  int ocupPoli = 91 - EstIng.idle();
-  int ocupTotal = ocupExt + ocupCent + ocupPoli;
-  writer.write(time() + "," + ((int) Math.floor(time())) + ",salida,Polideportivo," + ocupExt + "," + ocupCent + "," + ocupPoli + "," + ocupTotal + "," + Lleno.count() + "\n");
-  writer.close();
-} catch (Exception e) {
-  traceln("Error exportando CSV: " + e);
-}]]></Code>
-							</Value>
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[onWrapUpTerminated]]></Name>
