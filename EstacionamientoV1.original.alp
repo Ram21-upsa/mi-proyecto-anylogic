@@ -2526,6 +2526,9 @@
 					<Parameters>
 						<Parameter>
 							<Name><![CDATA[conditionIsProbabilistic]]></Name>
+							<Value Class="CodeValue">
+								<Code><![CDATA[true]]></Code>
+							</Value>
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[condition]]></Name>
@@ -2536,7 +2539,7 @@
 						<Parameter>
 							<Name><![CDATA[probability]]></Name>
 							<Value Class="CodeValue">
-								<Code><![CDATA[0.33]]></Code>
+								<Code><![CDATA[0.38]]></Code>
 							</Value>
 						</Parameter>
 						<Parameter>
@@ -4393,6 +4396,9 @@
 					<Parameters>
 						<Parameter>
 							<Name><![CDATA[conditionIsProbabilistic]]></Name>
+							<Value Class="CodeValue">
+								<Code><![CDATA[true]]></Code>
+							</Value>
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[condition]]></Name>
@@ -4400,7 +4406,7 @@
 						<Parameter>
 							<Name><![CDATA[probability]]></Name>
 							<Value Class="CodeValue">
-								<Code><![CDATA[0.6]]></Code>
+								<Code><![CDATA[0.45]]></Code>
 							</Value>
 						</Parameter>
 						<Parameter>
@@ -4466,6 +4472,9 @@
 					<Parameters>
 						<Parameter>
 							<Name><![CDATA[conditionIsProbabilistic]]></Name>
+							<Value Class="CodeValue">
+								<Code><![CDATA[true]]></Code>
+							</Value>
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[condition]]></Name>
@@ -4473,7 +4482,7 @@
 						<Parameter>
 							<Name><![CDATA[probability]]></Name>
 							<Value Class="CodeValue">
-								<Code><![CDATA[0.30]]></Code>
+								<Code><![CDATA[1.0]]></Code>
 							</Value>
 						</Parameter>
 						<Parameter>
